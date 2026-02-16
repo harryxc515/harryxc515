@@ -1,7 +1,3 @@
-🇯🇵 日本語
-💻 **ウェブ開発者 & Telegram ボット開発者**  
-高速でモダン、そしてクリーンなデジタル体験を作っています。  
-**SHNWAX1 Team** の創設者として、軽量で強力なツール開発を中心に活動中。
 
 ### 🔧 スキル
 - Web 開発（HTML / CSS / JS）
@@ -11,7 +7,7 @@
 - 自動化 & 高パフォーマンスなバックエンド
 
 ### 📫 連絡先
-Telegram：**@shnwazx**
+Telegram：**@harryxc515**
 
 ---
 ## 🌐 Motto / モットー
@@ -41,8 +37,6 @@ Telegram：**@shnwazx**
 ![](https://nirzak-streak-stats.vercel.app/?user=SHNWAZX&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHNWAZX&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHNWAZX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
